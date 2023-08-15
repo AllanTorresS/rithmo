@@ -10,6 +10,7 @@ import java.time.LocalDate;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
+@ToString
 public class ReservationResponseDTO {
 
     private Long id;

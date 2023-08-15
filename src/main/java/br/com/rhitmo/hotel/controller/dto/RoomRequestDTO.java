@@ -11,6 +11,7 @@ import java.math.BigDecimal;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
+@ToString
 public class RoomRequestDTO{
 
         @NotBlank(message = "description must not be null or empty")

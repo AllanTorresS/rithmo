@@ -2,7 +2,6 @@ package br.com.rhitmo.hotel.service;
 
 import br.com.rhitmo.hotel.controller.dto.RoomRequestDTO;
 import br.com.rhitmo.hotel.controller.dto.RoomResponseDTO;
-import jakarta.validation.Valid;
 
 import java.util.List;
 

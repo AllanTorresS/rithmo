@@ -1,12 +1,19 @@
 # Hotelaria
 Projeto do desafio backend.
 
-## Requirements
+## Tenologias
 - Java 17
 - Gradle 8.2.1
 - Docker 20+
 - Docker-compose 1.21.0+
-- Postgres
+- Postgres 13
+- Lombok
+- JPA 2.2
+- Spring Boot 3+
+ 
+## Pré Requisitos
+- Docker 
+- Docker-compose 
 
 ##  Build and Run
 Para buidar o o projeto bastar executar o comdando

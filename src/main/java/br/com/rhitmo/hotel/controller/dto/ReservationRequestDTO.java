@@ -11,6 +11,7 @@ import java.time.LocalDate;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
+@ToString
 public class ReservationRequestDTO {
 
     @JsonFormat(shape= JsonFormat.Shape.STRING, pattern = "dd/MM/yyyy")
