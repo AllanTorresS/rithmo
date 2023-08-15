@@ -20,3 +20,9 @@ Para subir a aplicação local com bancos de dados postgres usar o comando
 Após o uso usar o comando abaixo para desligar a aplicação
 
 ```docker-compose down```
+
+##  Collection
+
+Dentro do projeto tem uma pasta chamada ```collection``` que 
+pode ser importada via postam. ```Sempre que forem criados novos end-points 
+por favor atualizar a collection```
